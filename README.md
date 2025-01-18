@@ -1,4 +1,4 @@
-# 🚀 Hello there, I'm [ Md. Sahed Rahman ] 👨‍💻. 
+# 🚀 Hello there, I'm Md. Sahed Rahman 👨‍💻. 
 
 ### Welcome to my GitHub👋
 
