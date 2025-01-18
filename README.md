@@ -1,9 +1,12 @@
-🚀 I'm Sahed Rahman, A Frontend Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Interfaces 🚀
+# 🚀 Hello there, Md. Sahed Rahman 👨‍💻. 
 
-🔭 I’m currently working as a Faculty of the Depertment of Web and Software at WIT Institute .🤙
+### Welcome to my GitHub👋
 
-🌱 I’m currently learning Backend Development with Node JS, Express JS and MongoDB.📗
+# I'm a passionate MERN Stack Developer dedicated to crafting seamless and memorable user experiences. Simplicity, creativity, and impact drive my work, ensuring every project delivers value and innovation. 🚀
 
-❓ Ask me about anything related to the Frontend Development and related technologies.
+- 🌐 Fun fact: My love for exploration knows no bounds—be it coding challenges or new destinations.
+- 👯 Collaboration excites me! I’m eager to work on innovative projects that push boundaries.
+- 💻 Turning knowledge into impactful real-world applications is my passion.
+- ⌚ Goals: Embrace new technologies, contribute to open-source communities, and elevate my programming expertise.
+- 📫 Reach out to me at: sahedrahmanshakil@gmail.com
 
-⚡ Fun fact: I use tab button for over spaces
