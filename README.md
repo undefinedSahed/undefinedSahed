@@ -45,10 +45,9 @@ Feel free to connect with me @undefinedSahed for all things tech or just to say 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express JS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python"></code>
-<code><img height="27" src="https://icongr.am/devicon/c-plain.svg?" alt="C"></code>  
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://techicons.dev/icons/azuredevops.svg" alt="Azure DevOps"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:
 
