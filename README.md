@@ -37,43 +37,18 @@ Feel free to connect with me @undefinedSahed for all things tech or just to say 
 
 ### Languages and Tools:
 
-<!-- JavaScript -->
-<img height="27" src="https://logo.svgcdn.com/logos/javascript.png" alt="JavaScript">
-
-<!-- TypeScript -->
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-
-<!-- React JS -->
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-
-<!-- Next JS -->
-<img height="27" src="https://seeklogo.com/images/N/next-js-icon-logo-0C2D6D03D8-seeklogo.com.png" alt="Next.js">
-
-<!-- Node JS -->
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
-
-<!-- Express JS -->
-<img height="27" src="https://hexmos.com/freedevtools/svg_icons/express/express-logos/svg/expressjs.svg" alt="Express.js">
-
-<!-- MongoDB -->
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-
-<!-- Python -->
-<img height="27" src="https://logo.svgcdn.com/logos/python.png" alt="Python">  
-<!-- or SVG -->
-<!-- <img height="27" src="https://svgmix.com/item/yWkDb6/python" alt="Python"> -->
-
-<!-- C -->
-<img height="27" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-180189.png" alt="C Programming">
-
-<!-- Git -->
-<img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-
-<!-- AWS -->
-<img height="27" src="https://logo.svgcdn.com/logos/aws.png" alt="AWS">
-
-<!-- VPS Hosting / Deployment -->
-<img height="27" src="https://static.cdnlogo.com/logos/d/57/devops.svg" alt="DevOps">
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React JS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node JS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express JS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-plain.svg" alt="DevOps"></code>
 
 ### Projects and Dev Stuffs:
 
