@@ -45,10 +45,10 @@ Feel free to connect with me @undefinedSahed for all things tech or just to say 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express JS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C"></code>
+<code><img height="27" src="https://icongr.am/devicon/c-plain.svg?size=128" alt="C"></code>  
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-plain.svg" alt="DevOps"></code>
+<code><img height="27" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128" alt="AWS"></code>  
+<code><img height="27" src="https://svgrepo.com/show/465440/devops.svg" alt="DevOps"></code>
 
 ### Projects and Dev Stuffs:
 
